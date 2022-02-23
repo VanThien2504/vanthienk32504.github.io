@@ -1,0 +1,30 @@
+form{
+    margin: 0 auto;
+    text-align: center;
+    color:rgb(255, 255, 255);
+    font-size: 36px;
+    background-image: url("img.pgf/saotroi.jpeg");
+}
+body{
+    background-color: black;
+}
+img{
+    position: absolute;
+}
+.input{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+.output{
+    width: 250px;
+    height: 25px;
+    border-radius: 5px;
+}
+.odangki{
+    width: 100px;
+    height: 40px;
+    border-radius: 5px;
+    font-size: 15px;
+    text-decoration: none;
+}
